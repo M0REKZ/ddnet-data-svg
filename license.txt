@@ -3,4 +3,4 @@ All content in this repository, except the assets & skin files(which have their 
 Information about the authors of the recreated content can be found in the individual license files in each directory.
 
 game:
-Recreation by mind & Voxel
+Recreation by mind, Voxel, Cellegen & +KZ
